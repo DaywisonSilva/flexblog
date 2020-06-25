@@ -5,9 +5,9 @@
     "short_name": "sitePWA",
     "icons": [
       {
-        "src": "\/Arquivos\/logo-flexblog.png",
+        "src": "/Arquivos/logo-flexblog.png",
         "sizes": "192x192",
-        "type": "image\/png"
+        "type": "image/png"
       }
     ],
     "theme_color": "#1a1a1a",
