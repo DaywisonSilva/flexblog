@@ -12,7 +12,7 @@
     ],
     "theme_color": "#1a1a1a",
     "background_color": "#1a1a1a",
-    "start_url": "/index.html",
+    "start_url": "/https://daywisonsilva.github.io/flexblog",
     "display": "standalone",
     "orientation": "natural"
   }
