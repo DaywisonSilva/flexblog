@@ -53,6 +53,13 @@
     -o-animation: pace-spinner 400ms linear infinite;
     animation: pace-spinner 400ms linear infinite;
 }
+.pace::after{
+    content: '';
+    position: fixed;
+    background-color: rgb(147, 147, 147);
+    width: 100%;
+    height: 100vh;
+}
 
 @-webkit-keyframes pace-spinner {
     0% {
